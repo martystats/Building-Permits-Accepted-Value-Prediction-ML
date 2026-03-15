@@ -15,19 +15,15 @@ The goal is to demonstrate a complete **end-to-end data science workflow**, incl
 
 ---
 
-# Dataset
-The dataset contains historical **building permit records**, including:
+## Dataset
 
-- Permit type
-- Work category
-- Location features
-- Property attributes
-- Permit issue year
-- Permit values
+The dataset used in this project contains historical building permit records used to train the machine learning model.
 
-These variables are used to predict the **accepted permit value**.
+Due to GitHub file size limitations, the dataset is hosted externally.
 
-Due to GitHub file size limitations, the full dataset is not stored in this repository.
+Download the dataset here:
+
+https://www.dropbox.com/scl/fi/8pv6zzpib9rgqqrnipwur/cleaned_building_permits_2005_2025.csv?rlkey=hr1scvzh9j1gu9y0md531ir6i&dl=1
 
 ---
 
