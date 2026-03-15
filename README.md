@@ -28,12 +28,12 @@ https://www.dropbox.com/scl/fi/8pv6zzpib9rgqqrnipwur/cleaned_building_permits_20
 
 ## Trained Model
 
-The trained Random Forest model is stored externally due to GitHub file size limitations.
+The trained Random Forest model is included directly in this repository.
 
-Download the trained model here:
+Model file:
+permit_demo_model.pkl
 
-https://www.dropbox.com/scl/fi/nl2q81qdvu0jw64iw3b74/best_random_forest_model.pkl?rlkey=ad19f4q9akc8805y6oc2xo5rk&dl=1
-
+This model is loaded by the Streamlit application (`app.py`) to generate predictions for building permit accepted values.
 ---
 
 # Project Workflow
