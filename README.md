@@ -28,8 +28,6 @@ https://www.dropbox.com/scl/fi/8pv6zzpib9rgqqrnipwur/cleaned_building_permits_20
 
 ## Trained Model
 
-## Trained Model
-
 The trained Random Forest model is included directly in this repository.
 
 Model file:
