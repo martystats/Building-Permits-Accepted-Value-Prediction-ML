@@ -27,7 +27,7 @@ Due to GitHub file size limitations, the dataset is hosted externally.
 Dataset Download Link:
 
 Dropbox Dataset Link  
-https://www.dropbox.com/YOUR_DATASET_LINK_HERE
+https://www.dropbox.com/scl/fi/8pv6zzpib9rgqqrnipwur/cleaned_building_permits_2005_2025.csv?rlkey=hr1scvzh9j1gu9y0md531ir6i&dl=1
 
 ---
 
