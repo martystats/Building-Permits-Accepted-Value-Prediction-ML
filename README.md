@@ -20,15 +20,15 @@ This project demonstrates a reproducible and scalable machine learning workflow 
 
 ## Dataset
 
-The dataset contains historical records of building permits including information such as permit type, construction category, and estimated work value.
+## Dataset
 
-Due to GitHub file size limitations, the dataset is hosted externally.
+The dataset used in this project contains building permit records from 2005 to 2025.
 
-Dataset Download Link:
+Due to file size limitations, the dataset is hosted externally:
 
-Dropbox Dataset Link  
 https://www.dropbox.com/scl/fi/8pv6zzpib9rgqqrnipwur/cleaned_building_permits_2005_2025.csv?rlkey=hr1scvzh9j1gu9y0md531ir6i&dl=1
 
+This dataset was cleaned, processed, and transformed before being used to train the final machine learning model.
 ---
 
 ## Data Cleaning and Preprocessing
